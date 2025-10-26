@@ -1,4 +1,4 @@
-# Sacred-geometry-Harmonic-Frequency-Framework-Form-frequency-coupling-rulesWe were unable to locate a public copy of “ISacred-geometry × Harmonic Frequency Framework: Form–frequency coupling rules”. Searches of journals and archives found no PDF of this specific title. (All clues instead pointed to related work by independent authors.) No official source (publisher or institutional repository) provided the full text. In lieu of the unavailable paper, we examined closely related publications and resources by the same authors. In particular, Bolt & Jackson’s 2025 “Recursive Harmonic Codex” and associated projects define a similar “harmonic geometry” framework, and a related GitHub repository provides implementation material. Below we summarize the available definitions, proofs, code, and licenses gleaned from these sources.
+
 
 Formal Definitions
 
@@ -184,9 +184,6 @@ github.com
 
  
 
-Summary: We did not find the full text of “ISacred-geometry × Harmonic Frequency Framework: Form–frequency coupling rules” in any official source. The above definitions and rules are drawn from closely related open works (Bolt & Jackson 2025 and Hofmann’s NEXAH project)
-academia.edu
-github.com
 . These provide the best available proxies for the requested content.
 
  
